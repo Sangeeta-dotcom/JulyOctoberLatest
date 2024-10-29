@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="org.testing.testScripts.TC4_LoVideoPlay"/>
+      <class name="org.testing.testScripts.TestCase9_GetParticularMethod"/>
+      <class name="org.testing.testScripts.TC2_LoginHistory"/>
+      <class name="org.testing.testScripts.TestCase5_DeleteMethod"/>
+      <class name="org.testing.testScripts.TestCase4_GetParticularMethod"/>
+      <class name="org.testing.testScripts.TestCase7_PutMethod"/>
+      <class name="org.testing.testScripts.TestCase2_PutMethod"/>
+      <class name="org.testing.testScripts.TestCase6_PostMethod"/>
+      <class name="org.testing.testScripts.TestCase8_GetAllMethod"/>
+      <class name="org.testing.testScripts.TC7_ClickOnWatchLater"/>
+      <class name="org.testing.testScripts.TC5_VideoPlyChanlSubscribe"/>
+      <class name="org.testing.testScripts.TC6_CommentOnVideo"/>
+      <class name="org.testing.testScripts.TC1_LoginYoutube"/>
+      <class name="org.testing.testScripts.TestCase1_PostMethod"/>
+      <class name="org.testing.testScripts.TestCase3_GetAllMethod"/>
+      <class name="org.testing.testScripts.TC3_LoClickSubscription"/>
+      <class name="org.testing.testScripts.TestCase910_DeleteMethod"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

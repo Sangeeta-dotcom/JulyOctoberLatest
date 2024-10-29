@@ -1,0 +1,11 @@
+2024-10-29 16:51:51  [TestCase1] (main:) login successfully for tc1
+2024-10-29 16:58:30  [TestCase1_PostMethod] (main:) Status code is matching
+2024-10-29 16:58:31  [TestCase2_PutMethod] (main:) Status code is matching
+2024-10-29 16:58:31  [TestCase3_GetAllMethod] (main:) Status code is matching
+2024-10-29 16:58:32  [TestCase4_GetParticularMethod] (main:) Status code is matching
+2024-10-29 16:58:33  [TestCase5_DeleteMethod] (main:) Status code is matching
+2024-10-29 16:58:33  [TestCase6_PostMethod] (main:) Status code is matching
+2024-10-29 16:58:33  [TestCase7_PutMethod] (main:) Status code is matching
+2024-10-29 16:58:33  [TestCase8_GetAllMethod] (main:) Status code is matching
+2024-10-29 16:58:34  [TestCase9_GetParticularMethod] (main:) Status code is matching
+2024-10-29 16:58:34  [TestCase910_DeleteMethod] (main:) Status code is matching

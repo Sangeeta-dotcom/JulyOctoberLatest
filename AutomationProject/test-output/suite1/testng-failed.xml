@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [suite1]">
+  <test name="Command line test 95c3e3a3-85a6-48f5-ad7d-4a0133fa96b3">
+    <classes>
+      <class name="org.testing.testScripts.TestCase1_PostMethod"/>
+      <class name="org.testing.testScripts.TestCase2_PutMethod"/>
+      <class name="org.testing.testScripts.TestCase3_GetAllMethod"/>
+      <class name="org.testing.testScripts.TestCase4_GetParticularMethod"/>
+      <class name="org.testing.testScripts.TestCase5_DeleteMethod"/>
+      <class name="org.testing.testScripts.TestCase6_PostMethod"/>
+      <class name="org.testing.testScripts.TestCase7_PutMethod"/>
+      <class name="org.testing.testScripts.TestCase8_GetAllMethod"/>
+      <class name="org.testing.testScripts.TestCase9_GetParticularMethod"/>
+      <class name="org.testing.testScripts.TestCase910_DeleteMethod"/>
+      <class name="org.testing.testScripts.TC1_LoginYoutube"/>
+      <class name="org.testing.testScripts.TC2_LoginHistory"/>
+      <class name="org.testing.testScripts.TC3_LoClickSubscription"/>
+      <class name="org.testing.testScripts.TC4_LoVideoPlay"/>
+      <class name="org.testing.testScripts.TC5_VideoPlyChanlSubscribe"/>
+      <class name="org.testing.testScripts.TC6_CommentOnVideo"/>
+      <class name="org.testing.testScripts.TC7_ClickOnWatchLater"/>
+    </classes>
+  </test> <!-- Command line test 95c3e3a3-85a6-48f5-ad7d-4a0133fa96b3 -->
+  <test name="Command line test 95c3e3a3-85a6-48f5-ad7d-4a0133fa96b3(failed)">
+    <classes>
+      <class name="org.testing.testScripts.TC3_LoClickSubscription">
+        <methods>
+          <include name="tc3"/>
+          <include name="closure"/>
+          <include name="browserInvoke"/>
+        </methods>
+      </class> <!-- org.testing.testScripts.TC3_LoClickSubscription -->
+      <class name="org.testing.testScripts.TC7_ClickOnWatchLater">
+        <methods>
+          <include name="closure"/>
+          <include name="tc7"/>
+          <include name="browserInvoke"/>
+        </methods>
+      </class> <!-- org.testing.testScripts.TC7_ClickOnWatchLater -->
+      <class name="org.testing.testScripts.TC6_CommentOnVideo">
+        <methods>
+          <include name="closure"/>
+          <include name="browserInvoke"/>
+        </methods>
+      </class> <!-- org.testing.testScripts.TC6_CommentOnVideo -->
+      <class name="org.testing.testScripts.TC2_LoginHistory">
+        <methods>
+          <include name="closure"/>
+          <include name="browserInvoke"/>
+          <include name="tc2"/>
+        </methods>
+      </class> <!-- org.testing.testScripts.TC2_LoginHistory -->
+      <class name="org.testing.testScripts.TC5_VideoPlyChanlSubscribe">
+        <methods>
+          <include name="tc5"/>
+          <include name="closure"/>
+          <include name="browserInvoke"/>
+        </methods>
+      </class> <!-- org.testing.testScripts.TC5_VideoPlyChanlSubscribe -->
+      <class name="org.testing.testScripts.TC4_LoVideoPlay">
+        <methods>
+          <include name="closure"/>
+          <include name="browserInvoke"/>
+        </methods>
+      </class> <!-- org.testing.testScripts.TC4_LoVideoPlay -->
+      <class name="org.testing.testScripts.TC1_LoginYoutube">
+        <methods>
+          <include name="closure"/>
+          <include name="tc1"/>
+          <include name="browserInvoke"/>
+        </methods>
+      </class> <!-- org.testing.testScripts.TC1_LoginYoutube -->
+    </classes>
+  </test> <!-- Command line test 95c3e3a3-85a6-48f5-ad7d-4a0133fa96b3(failed) -->
+</suite> <!-- Failed suite [suite1] -->
